@@ -28,17 +28,17 @@ e o <a href="https://nodejs.org/pt-br/" target="_blank" >Node</a> instalados.</p
 ```bash
 
 # Clone este projeto
-$ git clone https://github.com/guisantanaa/mobi-auto-next
+$ git clone https://github.com/guisantanaa/teste-mobiauto
 
 # Entre na pasta teste-segware-brasil
 $ cd teste-mobiauto
 $ Execute o comando 'code .' e o projeto sera aberto no Visual Studio Code
 
 # Instale as dependências
-$ yarn
+$ yarn ou npm install
 
 # Inicialize
-$ yarn dev
+$ yarn dev ou npm run dev
 # O servidor irá iniciar em http://localhost:3000
 
 ```
