@@ -42,3 +42,5 @@ $ yarn dev ou npm run dev
 # O servidor irá iniciar em http://localhost:3000
 
 ```
+
+<p>OBS: os exercicios do 1 até o 4 estao na raiz do projeto como exercicios.js. Uma outra questao é que a vercel não aceitou o deploy</p>
